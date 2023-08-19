@@ -1,0 +1,50 @@
+  251  ssh-add-l
+  252  ssh-add -l
+  253  eval "$(ssh-agent -s)"
+  254  ssh-add -l
+  255  node -v
+  256  npm -v
+  257  npm install -g npm@latest~
+  258  npm install -g npm@latest
+  259  npm -v
+  260  ls
+  261  pwd
+  262  touch ~/.bashrc
+  263  ls
+  264  ls -a
+  265  exec bash
+  266  nano .profile
+  267  exec bash
+  268  . ~/.profile
+  269  nano .profile
+  270  exec bash
+  271  . .profile 
+  272  clear
+  273  git clone git@github.com:gndx/react-base.git~
+  274  git clone git@github.com:gndx/react-base.git
+  275  git clone https://github.com/Laboratoria/burger-queen-api-mock.git
+  276  git clone https://github.com/dianaclabel/DEV006-burger-queen-api-client.git
+  277  git clone [200~
+  278  git clone https://github.com/Laboratoria/burger-queen-api-mock.git
+  279  git clone https://github.com/dianaclabel/burger-queen-api-mock.git
+  280  npm run star
+  281  npm run start
+  282  [200~git remote add origin https://github.com/dianaclabel/HeroesCards.git
+  283  git branch -M main
+  284  git push -u origin main~
+  285  git remote add origin https://github.com/dianaclabel/HeroesCards.git~
+  286  git branch -M main~
+  287  git branch -M main
+  288  git push -u origin main~
+  289  git push -u origin main
+  290  git remote add origin https://github.com/dianaclabel/heroesCards.git
+  291  git branch -M main
+  292  git push -u origin main
+  293  git remote add origin https://github.com/dianaclabel/pizzaFront.git
+  294  mkdir comandos.txt
+  295  touch comandos.txt
+  296  history 
+  297  histoy > 50 comandos.txt
+  298  history 50 > comandos.txt
+  299  cat comandos.txt
+  300  history 50 > comandos.txt
